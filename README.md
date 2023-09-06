@@ -25,7 +25,7 @@
   
 
   ## Contribution
-  for this project N/A
+ contribute to this project as you may see fit any improvements.
   
   ## sample
 
