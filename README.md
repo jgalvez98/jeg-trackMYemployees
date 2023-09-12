@@ -31,6 +31,8 @@
   
   ## sample
 
+  sample video url : https://clipchamp.com/watch/9EGW1wc9chd
+
 <img width="484" alt="challneg12" src="https://github.com/jgalvez98/jeg-trackMYemployees/assets/71774194/c0cbf0e5-901b-4004-9d00-90974802ef3a">
 
 
