@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)",
   "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
   "scripts": {
-    "start": "node index.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -13,16 +16,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/jgalvez98/jeg-trackMYemployees/issues"
   },
   "homepage": "https://github.com/jgalvez98/jeg-trackMYemployees#readme",
   "dependencies": {
-    "chalk": "^5.2.0",
-    "dotenv": "^16.0.3",
+    "console-table-printer": "^2.11.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
     "inquirer": "^8.2.4",
-    "mysql2": "^3.2.4",
-    "sequelize": "^6.31.0"
+    "mysql2": "^3.6.1",
+    "sequelize": "^6.32.1"
   }
 }
